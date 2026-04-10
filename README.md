@@ -1,1 +1,9 @@
-# cvjaki
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>CV kerja</title>
+  <p>
+    <img src="Biru Abu-Abu Minimalis Modern CV Resume Riwayat Hidup_20241106_142742_0000.jpg" />
+  </p>
+</body>
+</html>
